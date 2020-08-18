@@ -1,0 +1,1 @@
+this project is about run emame command and check the result
