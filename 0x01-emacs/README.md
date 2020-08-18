@@ -1,0 +1,1 @@
+this directory contaon 0-opening file
