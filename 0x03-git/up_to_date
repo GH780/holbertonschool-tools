@@ -6,3 +6,4 @@ git checkout -b [branch name]
 git checkout [branche name]
 git commit -m "message"
 git status
+git pull
