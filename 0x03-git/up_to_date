@@ -1,0 +1,7 @@
+git add .
+git status
+git init
+git checkout -b [branche name]
+git checkout master
+git clone https://github.com/GH780/holbertonschool-tools.git
+git commit -m "nessage"
