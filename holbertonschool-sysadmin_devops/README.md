@@ -1,1 +1,0 @@
-this repo contains all directories and file of project 4 that related to learning the shell
