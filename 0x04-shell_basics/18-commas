@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la -f --format=-m -x|sort -n 
+ls -a -f --format=-m -x|sort -n 
