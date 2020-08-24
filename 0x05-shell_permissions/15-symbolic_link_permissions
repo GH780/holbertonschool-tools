@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R -P _hello
+chown  -R -P _hello
