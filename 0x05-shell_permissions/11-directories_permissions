@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R +x  MODE DIRECTORY
+chmod +x -R MODE DIRECTORY
