@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x MODE DIRECTORY
+chmod -R ugo+x MODE DIRECTORY
