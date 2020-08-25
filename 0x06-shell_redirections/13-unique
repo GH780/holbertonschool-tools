@@ -1,2 +1,2 @@
 #!/bin/bash
-uniqu --version
+uniqu -u
