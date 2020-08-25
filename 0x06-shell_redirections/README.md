@@ -1,0 +1,1 @@
+this directory is to examin I/O redirections
