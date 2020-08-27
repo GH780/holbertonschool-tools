@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 3 /ect/passwd tail -n +3 /ect/passwd
+cat iacta | head -3 | tail -1
