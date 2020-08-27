@@ -1,0 +1,1 @@
+this directory to practice project 7 about shell variables expansions
