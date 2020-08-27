@@ -1,2 +1,2 @@
 #!/bin/bash
-while (<>) { print if($./2!=0) }
+while (<>) { print if($./2!=0); }
