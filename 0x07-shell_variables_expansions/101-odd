@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%ds/$/  /\n' "$line"
+xargs -n 2 | cut -d' ' -f 1
